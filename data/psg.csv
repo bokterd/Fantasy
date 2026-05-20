@@ -1,5 +1,5 @@
 name,pos,role,pos2,side,comfort,con,end,fin,pos_,hdr,ctr,pas,vis,cro,fk,spd,str,jum,def,int,ref,han,swp,dis,skill,mental,nat,team,,← Download this sheet as CSV → upload to GitHub
-Chevalier,GK,GK-SK,,,,B,C,39,37,32,37,36,47,32,34,59,53,63,50,30,83,78,78,73,,,FRA,psg,,
+Chevalier,GK,GK-SK,,,,B,C,39,37,32,37,36,47,32,34,59,53,84,50,30,86,78,78,73,,,FRA,psg,,
 Hakimi,DF,WB,FB,R,natural,B,A,80,84,71,85,79,78,85,80,92,72,84,82,85,20,20,20,20,Crossing Specialist,,MAR,psg,,
 Marquinhos,DF,CB,BPD,,,A,C,59,70,88,79,84,76,68,32,78,79,89,89,89,20,20,20,20,Interception,Leader,BRA,psg,,
 Nuno Mendes,DF,WB,FB,L,unnatural,B,B,74,82,74,85,78,72,83,75,95,73,87,82,82,20,20,20,20,Rapid,,POR,psg,,
@@ -10,7 +10,7 @@ Joao Neves,MF,DLP,B2B,,,A,A,72,81,84,88,87,85,67,72,74,78,88,84,85,20,20,20,20,E
 Dembele,FW,IF,AF,R,natural,C,C,90,95,74,94,83,84,80,68,91,69,84,50,45,20,20,20,20,Rapid,Clutch,FRA,psg,,
 Kvaratskhelia,FW,IF,WM,L,comfortable,A,C,81,87,72,88,82,85,79,74,86,76,87,58,58,20,20,20,20,Trickster,Clutch,GEO,psg,,
 Barcola,FW,IF,WM,L,natural,B,C,80,84,69,84,73,79,81,64,91,64,79,39,39,20,20,20,20,Rapid,Stage Fright,FRA,psg,,
-Safonov,GK,GK-S,,,,B,C,38,38,33,36,33,58,33,31,44,65,65,44,35,80,74,68,80,,,RUS,psg,,
+Safonov,GK,GK-S,,,,B,C,38,38,33,36,33,58,33,31,44,65,81,44,35,85,82,68,75,,,RUS,psg,,
 Lucas Hernández,DF,CB,FB,L,unnatural,C,D,53,66,80,77,72,71,78,38,71,78,84,82,80,20,20,20,20,,Aggressive,FRA,psg,,
 Lucas Beraldo,DF,CB,BPD,,,C,D,34,35,76,72,75,59,59,34,66,76,81,79,77,20,20,20,20,,,BRA,psg,,
 Zaïre-Emery,MF,B2B,CDM,,,B,B,67,77,66,81,82,79,68,53,80,83,84,75,81,20,20,20,20,,,FRA,psg,,
