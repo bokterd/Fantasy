@@ -1,6 +1,6 @@
 name,pos,role,pos2,side,comfort,con,end,fin,pos_,hdr,ctr,pas,vis,cro,fk,spd,str,jum,def,int,ref,han,swp,dis,skill,mental,nat,team,,← Download this sheet as CSV → upload to GitHub
-Oblak,GK,GK-S,,,,A,C,31,31,35,30,42,67,33,34,59,78,72,46,24,91,90,61,78,GK Cross Claim,,SVN,atletico,,
-Marcos Llorente,MF,WB,B2B,R,natural,A,A,80,81,69,82,80,80,77,63,90,79,85,78,80,20,20,20,20,Rapid,,ESP,atletico,,
+Oblak,GK,GK-S,,,,A,C,31,31,35,30,42,67,33,34,59,78,85,46,24,87,90,61,78,GK Cross Claim,,SVN,atletico,,
+Marcos Llorente,MF,WB,B2B,R,natural,A,A,80,81,69,82,80,85,77,63,90,79,85,78,80,20,20,20,20,Rapid,,ESP,atletico,,
 Le Normand,DF,CB,,,,B,C,32,31,84,74,78,48,35,35,65,86,86,84,83,20,20,20,20,,,ESP,atletico,,
 Gimenez,DF,CB,,,,B,C,37,35,82,70,74,46,47,44,73,85,87,85,84,20,20,20,20,,Aggressive,URU,atletico,,
 Ruggeri,DF,FB,WM,L,unnatural,B,D,61,75,65,76,71,65,76,50,78,69,77,72,70,20,20,20,20,,,ITA,atletico,,
@@ -9,7 +9,7 @@ Giuliano,MF,IF,WM,R,comfortable,B,B,75,79,67,80,73,77,76,46,91,79,87,45,57,20,20
 Lookman,MF,IF,WM,L,comfortable,A,C,85,87,71,86,71,80,66,56,84,63,81,32,44,20,20,20,20,Clinical,,NGA,atletico,,
 Griezmann,FW,Channel Forward,Poacher,,,A,C,85,86,78,90,84,86,82,85,76,70,84,59,62,20,20,20,20,Tight Ctrl,Leader,FRA,atletico,,
 Julián Alvarez,FW,Channel Forward,Poacher,,,A,B,88,88,77,88,80,83,77,88,85,72,86,57,52,20,20,20,20,Dead Ball,Clutch,ARG,atletico,,
-Musso,GK,GK-S,,,,A,C,38,39,35,30,31,48,30,33,44,70,68,44,38,79,77,74,73,,,ARG,atletico,,
+Musso,GK,GK-S,,,,A,C,38,39,35,30,31,48,30,33,44,70,79,44,38,82,78,74,73,,,ARG,atletico,,
 Molina,DF,WB,FB,R,natural,C,B,67,77,58,76,72,76,78,51,82,64,74,75,77,20,20,20,20,,,ARG,atletico,,
 Lenglet,DF,CB,,,,B,C,39,54,79,73,78,69,55,35,54,79,79,82,83,20,20,20,20,,,FRA,atletico,,
 Hancko,DF,CB,WCB,L,natural,B,B,63,69,82,78,78,68,66,72,77,87,85,82,80,20,20,20,20,,,SVK,atletico,,
