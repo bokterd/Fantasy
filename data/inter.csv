@@ -1,5 +1,5 @@
 name,pos,role,pos2,side,comfort,con,end,fin,pos_,hdr,ctr,pas,vis,cro,fk,spd,str,jum,def,int,ref,han,swp,dis,skill,mental,nat,team,,← Download this sheet as CSV → upload to GitHub
-Sommer,GK,GK-S,,,,B,C,33,35,30,30,42,64,33,33,51,68,68,50,31,87,81,92,85,GK Parry,,SUI,inter,,
+Sommer,GK,GK-S,,,,B,C,33,35,30,30,42,64,33,33,51,68,83,50,31,87,81,92,85,GK Parry,,SUI,inter,,
 Bisseck,DF,CB,WCB,,,A,C,54,59,76,76,70,60,54,38,76,83,90,75,74,20,20,20,20,,,GER,inter,,
 de Vrij,DF,BPD,WCB,,,B,D,35,31,82,74,78,70,49,36,62,74,81,86,85,20,20,20,20,,Aggressive,NED,inter,,
 Bastoni,DF,BPD,WCB,L,natural,A,B,39,39,86,83,83,72,72,41,74,81,88,88,87,20,20,20,20,Long Pass,Tempo Dictator,ITA,inter,,
@@ -10,7 +10,7 @@ Barella,MF,B2B,CM,,,A,A,77,84,62,87,88,86,82,67,82,68,77,77,84,20,20,20,20,Engin
 Dimarco,MF,WM,WB,L,unnatural,A,B,74,83,73,86,84,80,90,83,82,72,84,79,81,20,20,20,20,Crossing Specialist,,ITA,inter,,
 Thuram,FW,AF,,,,B,B,85,86,76,81,74,78,76,56,86,82,93,50,47,20,20,20,20,Rapid,,FRA,inter,,
 Lautaro,FW,Poacher,Channel Forward,,,A,B,93,93,86,84,75,79,68,65,81,80,91,51,48,20,20,20,20,Clinical,Leader,ARG,inter,,
-Josep Martínez,GK,GK-S,,,,B,C,30,31,33,31,34,52,32,32,30,58,54,36,31,75,71,74,67,,,ESP,inter,,
+Josep Martínez,GK,GK-S,,,,B,C,30,31,33,31,34,52,32,32,30,58,75,36,31,75,71,74,67,,,ESP,inter,,
 Darmian,DF,WB,WCB,R,proficient,C,C,60,78,79,78,78,70,74,40,71,64,76,81,79,20,20,20,20,,,ITA,inter,,
 Acerbi,DF,CB,,,,A,D,37,20,83,72,80,65,34,56,55,84,84,85,87,20,20,20,20,Interception,Aggressive,ITA,inter,,
 Carlos Augusto,DF,WB,WCB,L,proficient,B,B,68,79,76,80,76,76,79,74,78,74,85,79,79,20,20,20,20,,,BRA,inter,,
@@ -22,4 +22,4 @@ Esposito,FW,AF,,,,B,C,79,78,79,76,70,64,66,77,64,85,85,34,37,20,20,20,20,Aerial 
 Akanji,DF,WCB,WCB,R,natural,A,C,38,37,79,77,79,65,55,59,74,88,83,82,82,20,20,20,20,,,SUI,inter,,
 Diouf,MF,CM,CDM,,,D,C,64,71,60,77,76,74,59,63,77,77,78,67,69,20,20,20,20,,,FRA,inter,,
 Sučić,MF,B2B,CDM,,,B,A,71,72,62,84,76,76,76,70,72,68,73,61,64,20,20,20,20,Engine,,CRO,inter,,
-Di Gennaro,GK,GK-S,,,,C,C,35,33,36,36,33,43,32,38,43,51,55,36,33,68,67,57,62,,,ITA,inter,,
+Di Gennaro,GK,GK-S,,,,C,C,35,33,36,36,33,43,32,38,43,51,71,36,33,68,67,57,62,,,ITA,inter,,
