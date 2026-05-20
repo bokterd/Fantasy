@@ -1,5 +1,5 @@
 name,pos,role,pos2,side,comfort,con,end,fin,pos_,hdr,ctr,pas,vis,cro,fk,spd,str,jum,def,int,ref,han,swp,dis,skill,mental,nat,team,,← Download this sheet as CSV → upload to GitHub
-Donnarumma,GK,GK-S,,,,B,C,32,34,32,30,35,60,32,34,52,75,73,52,36,89,83,58,72,GK Parry,,ITA,mancity,,
+Donnarumma,GK,GK-S,,,,B,C,32,34,32,30,35,60,32,34,52,75,90,52,36,90,83,58,72,GK Parry,,ITA,mancity,,
 Matheus Nunes,DF,IWB,DLP,R,unnatural,C,B,69,75,66,80,80,78,77,58,85,74,80,76,80,20,20,20,20,,,POR,mancity,,
 Dias,DF,BPD,CB,,,A,C,29,39,85,75,80,64,54,48,59,89,84,86,87,20,20,20,20,Block,Aggressive,POR,mancity,,
 Guéhi,DF,BPD,WCB,,,A,C,42,35,82,77,79,66,58,32,71,80,92,84,85,20,20,20,20,,,ENG,mancity,,
