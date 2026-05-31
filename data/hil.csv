@@ -1,0 +1,11 @@
+name,pos,role,pos2,side,comfort,con,end,fin,pos_,hdr,ctr,pas,vis,cro,fk,spd,str,jum,def,int,ref,han,swp,dis,skill,mental,nat,team,,← Download this sheet as CSV → upload to GitHub
+Bounou,GK,GK-S,,,,B,C,34,30,34,32,42,62,35,30,38,69,81,36,31,85,82,55,76,Penalty Stopper,,MAR,hil,,
+Koulibaly,DF,CB,WCB,,,B,C,43,50,82,70,68,64,50,39,72,89,87,82,81,20,20,20,20,Block,Aggressive,SEN,hil,,
+Hernández,DF,WB,WM,L,unnatural,C,B,74,80,76,84,76,75,84,74,90,80,90,78,78,20,20,20,20,Rapid,Aggressive,FRA,hil,,
+Rúben Neves,MF,DLP,CM,,,A,B,66,65,57,85,88,87,87,81,58,74,68,75,79,20,20,20,20,Playmaker,,POR,hil,,
+Milinković-Savić,MF,CAM,CDM,,,B,A,81,83,86,87,84,86,71,83,62,90,88,79,76,20,20,20,20,Press-Resistant,Aggressive,SRB,hil,,
+Benzema,FW,False 9,Poacher,,,A,C,86,88,86,86,81,86,75,73,75,81,83,42,39,20,20,20,20,Clinical,Clutch,FRA,hil,,
+Núñez,FW,Poacher,IF,L,unnatural,C,B,75,82,76,75,71,78,69,61,88,81,93,51,45,20,20,20,20,,,URU,hil,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,," ,",,,,,,,,
