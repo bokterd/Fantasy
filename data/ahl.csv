@@ -1,5 +1,5 @@
 name,pos,role,pos2,side,comfort,con,end,fin,pos_,hdr,ctr,pas,vis,cro,fk,spd,str,jum,def,int,ref,han,swp,dis,skill,mental,nat,team,,← Download this sheet as CSV → upload to GitHub
-Ibañez,DF,CB,BPD,,,,B,27,39,82,66,62,57,34,35,87,84,89,83,85,20,20,20,20,Block,,BRA,,,
-Mahrez,MF,WM,IW,R,unnatural,,C,80,83,56,89,78,83,83,80,76,60,71,39,39,20,20,20,20,Tight Ctrl,,ALG,,,
-Edouard Mendy,GK,GK-S,,,,,C,35,36,30,31,54,50,30,34,34,72,83,31,33,81,77,63,77,,,SEN,,,
-Ivan Toney,FW,AF,,,,,C,86,85,85,80,71,74,63,73,72,85,90,54,52,20,20,20,20,,Aggressive,ENG,,,
+Ibañez,DF,CB,BPD,,,C,B,27,39,82,66,62,57,34,35,87,84,89,83,85,20,20,20,20,Block,,BRA,,,
+Mahrez,MF,WM,IW,R,unnatural,B,C,80,83,56,89,78,83,83,80,76,60,71,39,39,20,20,20,20,Tight Ctrl,,ALG,,,
+Edouard Mendy,GK,GK-S,,,,C,C,35,36,30,31,54,50,30,34,34,72,83,31,33,81,77,63,77,,,SEN,,,
+Ivan Toney,FW,AF,,,,B,C,86,85,85,80,71,74,63,73,72,85,90,54,52,20,20,20,20,,Aggressive,ENG,,,
