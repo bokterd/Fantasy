@@ -1,7 +1,7 @@
 name,pos,role,pos2,side,comfort,con,end,fin,pos_,hdr,ctr,pas,vis,cro,fk,spd,str,jum,def,int,ref,han,swp,dis,skill,mental,nat,team,,← Download this sheet as CSV → upload to GitHub
-Henderson,GK,GK-S,,,,,C,30,30,33,35,46,55,34,30,56,64,83,33,31,82,79,80,79,,,ENG,,,
-Muñoz,DF,WB,WCB,R,unnatural,,A,72,76,78,77,76,70,80,34,78,74,85,80,79,20,20,20,20,,,COL,,,
-Lacroix,DF,CB,,,,,C,29,32,77,69,72,55,35,26,88,84,85,80,83,20,20,20,20,,,FRA,,,
-Kamada,MF,CAM,B2B,,,,B,74,76,56,80,78,81,75,73,71,55,66,63,69,20,20,20,20,,,JPN,,,
-Wharton,MF,DLP,,,,,C,60,66,62,82,86,85,79,71,62,66,68,74,78,20,20,20,20,Press-Resistant,,ENG,,,
-Mateta,FW,AF,,,,,D,84,85,79,80,70,74,59,54,74,88,87,45,41,20,20,20,20,,Clutch,FRA,,,
+Henderson,GK,GK-S,,,,C,C,30,30,33,35,46,55,34,30,56,64,83,33,31,82,79,80,79,,,ENG,,,
+Muñoz,DF,WB,WCB,R,unnatural,A,A,72,76,78,77,76,70,80,34,78,74,85,80,79,20,20,20,20,,,COL,,,
+Lacroix,DF,CB,,,,B,C,29,32,77,69,72,55,35,26,88,84,85,80,83,20,20,20,20,,,FRA,,,
+Kamada,MF,CAM,B2B,,,C,B,74,76,56,80,78,81,75,73,71,55,66,63,69,20,20,20,20,,,JPN,,,
+Wharton,MF,DLP,,,,A,C,60,66,62,82,86,85,79,71,62,66,68,74,78,20,20,20,20,Press-Resistant,,ENG,,,
+Mateta,FW,AF,,,,C,D,84,85,79,80,70,74,59,54,74,88,87,45,41,20,20,20,20,,Clutch,FRA,,,
