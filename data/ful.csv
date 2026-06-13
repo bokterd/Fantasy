@@ -1,3 +1,4 @@
 name,pos,role,pos2,side,comfort,con,end,fin,pos_,hdr,ctr,pas,vis,cro,fk,spd,str,jum,def,int,ref,han,swp,dis,skill,mental,nat,team,,← Download this sheet as CSV → upload to GitHub
-Robinson,DF,WB,,L,unnatural,,B,45,76,64,77,75,78,80,39,88,73,82,76,81,20,20,20,20,,,USA,,,
-Wilson,MF,WM,Half Winger,,,,C,80,78,69,81,76,81,81,84,78,53,71,48,40,20,20,20,20,,Clutch,WAL,,,
+Robinson,DF,WB,,L,unnatural,B,B,45,76,64,77,75,78,80,39,88,73,82,76,81,20,20,20,20,,,USA,,,
+Wilson,MF,WM,Half Winger,,,B,C,80,78,69,81,76,81,81,84,78,53,71,48,40,20,20,20,20,,Clutch,WAL,,,
+Raúl Jiménez,FW,AP,,,,B,D,80,80,83,78,74,73,70,72,58,85,87,49,52,20,20,20,20,,Clutch,MEX,,,
