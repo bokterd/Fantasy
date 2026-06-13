@@ -1,4 +1,4 @@
 name,pos,role,pos2,side,comfort,con,end,fin,pos_,hdr,ctr,pas,vis,cro,fk,spd,str,jum,def,int,ref,han,swp,dis,skill,mental,nat,team,,← Download this sheet as CSV → upload to GitHub
-Éderson,MF,CM,,,,,A,72,74,65,84,83,80,70,50,78,77,80,77,81,20,20,20,20,Engine,,BRA,,,
-De Ketelaere,FW,False 9,Half Winger,,,,C,78,82,75,87,82,83,76,72,72,69,79,58,56,20,20,20,20,,,BEL,,,
-Carnesecchi,GK,GK-S,,,,,C,8,9,20,21,34,54,11,12,32,55,86,16,13,86,84,66,74,GK Cross Claim,,ITA,,,
+Éderson,MF,CM,,,,B,A,72,74,65,84,83,80,70,50,78,77,80,77,81,20,20,20,20,Engine,,BRA,,,
+De Ketelaere,FW,False 9,Half Winger,,,B,C,78,82,75,87,82,83,76,72,72,69,79,58,56,20,20,20,20,,,BEL,,,
+Carnesecchi,GK,GK-S,,,,C,C,8,9,20,21,34,54,11,12,32,55,86,16,13,86,84,66,74,GK Cross Claim,,ITA,,,
