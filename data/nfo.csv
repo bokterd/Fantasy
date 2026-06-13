@@ -1,4 +1,4 @@
 name,pos,role,pos2,side,comfort,con,end,fin,pos_,hdr,ctr,pas,vis,cro,fk,spd,str,jum,def,int,ref,han,swp,dis,skill,mental,nat,team,,← Download this sheet as CSV → upload to GitHub
-Gibbs-White,MF,CAM,,,,,B,77,79,70,85,82,83,80,72,76,68,77,61,60,20,20,20,20,,Clutch,ENG,,,
-Anderson,MF,B2B,CDM,,,,A,66,76,76,81,82,81,80,67,72,75,84,79,80,20,20,20,20,Engine,,ENG,,,
-Murillo,DF,WCB,,,,,C,33,40,79,73,76,62,53,56,80,90,95,82,83,20,20,20,20,,Aggressive,BRA,,,
+Gibbs-White,MF,CAM,,,,B,B,77,79,70,85,82,83,80,72,76,68,77,61,60,20,20,20,20,,Clutch,ENG,,,
+Anderson,MF,B2B,CDM,,,A,A,66,76,76,81,82,81,80,67,72,75,84,79,80,20,20,20,20,Engine,,ENG,,,
+Murillo,DF,WCB,,,,A,C,33,40,79,73,76,62,53,56,80,90,95,82,83,20,20,20,20,,Aggressive,BRA,,,
