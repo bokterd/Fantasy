@@ -1,5 +1,5 @@
 name,pos,role,pos2,side,comfort,con,end,fin,pos_,hdr,ctr,pas,vis,cro,fk,spd,str,jum,def,int,ref,han,swp,dis,skill,mental,nat,team,,← Download this sheet as CSV → upload to GitHub
-Alisson,GK,GK-SK,,,,B,C,33,33,34,43,66,66,47,49,58,58,86,56,31,87,87,83,83,GK 1-on-1,,BRA,liverpool,,
+Alisson,GK,GK-S,GK-SK,,,B,C,33,33,34,43,66,66,47,49,58,58,86,56,31,87,87,83,83,GK 1-on-1,,BRA,liverpool,,
 Van Dijk,DF,CB,BPD,,,A,C,52,47,88,77,82,70,53,70,72,92,89,89,88,20,20,20,20,Aerial Threat,Leader,NED,liverpool,,
 Konate,DF,CB,BPD,,,C,C,39,44,83,75,77,64,38,31,77,91,83,86,83,20,20,20,20,,Aggressive,FRA,liverpool,,
 Frimpong,DF,WB,IF,R,unnatural,C,B,66,82,54,84,72,73,83,47,94,47,68,72,77,20,20,20,20,Rapid,,NED,liverpool,,
