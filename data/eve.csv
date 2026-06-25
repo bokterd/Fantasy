@@ -1,4 +1,4 @@
 name,pos,role,pos2,side,comfort,con,end,fin,pos_,hdr,ctr,pas,vis,cro,fk,spd,str,jum,def,int,ref,han,swp,dis,skill,mental,nat,team,,← Download this sheet as CSV → upload to GitHub
-Pickford,GK,GK-S,,,,,,39,38,38,42,60,69,37,36,52,72,84,39,26,87,80,76,88,,,ENG,,,
-Ndiaye,FW,WG,AP,R,natural,,C,79,80,59,84,70,78,75,55,86,66,76,45,49,20,20,20,20,Trickster,,SEN,,,
-Grealish,FW,IW,AP,L,unnatural,,D,76,78,48,86,81,85,81,74,72,67,67,51,49,20,20,20,20,Tight Ctrl,,ENG,,,
+Pickford,GK,GK-S,,,,C,C,39,38,38,42,60,69,37,36,52,72,84,39,26,87,80,76,88,,,ENG,,,
+Ndiaye,FW,WG,AP,R,natural,B,C,79,80,59,84,70,78,75,55,86,66,76,45,49,20,20,20,20,Trickster,,SEN,,,
+Grealish,FW,IW,AP,L,unnatural,C,D,76,78,48,86,81,85,81,74,72,67,67,51,49,20,20,20,20,Tight Ctrl,,ENG,,,
