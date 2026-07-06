@@ -1527,6 +1527,9 @@ body{font-family:'Space Grotesk','Space Grotesk',monospace}
   #s4 .sta-fill{width:100%!important;height:100%!important}
   #s4 .lu-name{font-size:.86em!important}
   #s4 .lu-rating{font-size:.92em!important;min-width:18px!important}
+  /* Commentary: tighter line spacing on mobile (denser feed) */
+  #s4 .ce{margin-bottom:2px!important;padding-top:3px!important;padding-bottom:3px!important;line-height:1.32!important}
+  #s4 .ce.goal{padding-top:4px!important;padding-bottom:4px!important}
 
   /* ---- SQUAD (s2b): side-by-side, left panel narrower than pitch, notch-safe ---- */
   #s2b .sq2-body{padding:0 max(8px,env(safe-area-inset-right)) 6px max(8px,env(safe-area-inset-left))!important;gap:8px!important}
@@ -1680,6 +1683,17 @@ body{font-family:'Space Grotesk','Space Grotesk',monospace}
   #s0 .ce-foot .btn{min-height:34px!important;padding:6px 12px!important;font-size:.66rem!important}
   /* ---- DASHBOARD manager card: stack info UNDER the photo (vertical) ---- */
   #cup-hub .dash-card .dash-card-hd + div[style*="display:flex"]{flex-direction:column!important;align-items:center!important;text-align:center!important;gap:6px!important}
+  /* Next-match block: compact so the whole row + NEXT MATCH button fit the visible screen */
+  #cup-hub .dash-match .dash-stage{font-size:.78rem!important;letter-spacing:2px!important}
+  #cup-hub .dash-match>div[style*="height:22px"]{height:8px!important}
+  #cup-hub .dash-match>div[style*="height:26px"]{height:12px!important}
+  #cup-hub .dash-radar-wrap{width:104px!important}
+  #cup-hub .dash-radar-wrap canvas{width:104px!important;height:104px!important}
+  #cup-hub .dash-logo{width:46px!important;height:46px!important}
+  #cup-hub .dash-team-col{gap:4px!important}
+  #cup-hub .dash-ha{font-size:.62rem!important;letter-spacing:2px!important}
+  #cup-hub .dash-tname,#cup-hub .dash-team-col .dash-tname{font-size:.72rem!important}
+  #cup-hub .dash-rank{font-size:.72rem!important}
   #cup-hub .dash-card .dash-card-hd + div[style*="display:flex"] > div:last-child{padding:0!important;align-items:center!important}
   /* draft finished (continue button visible): reveal logo + name side-by-side, smaller */
   #cup-fantasy:has(.cfan-footer.visible) #cfan-ann br{display:none!important}
