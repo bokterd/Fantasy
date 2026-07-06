@@ -1434,6 +1434,13 @@ body{font-family:'Space Grotesk','Space Grotesk',monospace}
 @media (max-width:950px) and (max-height:500px){
   /* ---- Phase 0: global scaffolding ---- */
   .btn{min-height:34px;display:inline-flex;align-items:center;justify-content:center}
+  /* Viewport safety: 100dvh fits Chrome's shrinking URL bar; body frame carries the notch/
+     safe-area insets so every screen sits inside them; screens scroll as a fallback so nothing
+     is ever clipped-unreachable on an odd-sized phone. */
+  html{height:100dvh!important;overflow:hidden!important}
+  body{height:100dvh!important;overflow:hidden!important;box-sizing:border-box!important;
+    padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left)!important}
+  .screen{height:100%!important;overflow-y:auto!important;overflow-x:auto!important;-webkit-overflow-scrolling:touch}
 
   /* ---- Phase 1: MAIN MENU ---- */
   #cup-menu{padding:4px 14px 8px!important;justify-content:flex-start!important}
@@ -18072,7 +18079,7 @@ document.addEventListener('drop',e=>{
   </div>
   <div class="cfan-footer" id="cfan-footer">
     <button class="btn btnS" onclick="G.show('cup-menu')">← Back</button>
-    <button class="btn btnP cfan-continue" onclick="CUP._goDraw()" style="min-width:180px">Continue to Draw →</button>
+    <button class="btn btnP cfan-continue" onclick="CUP._goDraw()" style="min-width:180px;justify-content:center">Continue to Draw →</button>
   </div>
 </div>
 
@@ -21075,6 +21082,7 @@ this._standingsSub=null;
   },
 
   _renderDebugPanel(){
+    if(typeof PUBLISH!=='undefined'&&PUBLISH) return '';
     const rows=this.draftRoster.map(p=>{
       const sta=p._cupStamina!==undefined?p._cupStamina:'—';
       const col=p._cupStamina!==undefined?getStaColor(p._cupStamina):'var(--dim)';
